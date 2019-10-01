@@ -1,1 +1,376 @@
-webpackJsonp([1],{114:function(l,n,u){"use strict";u.d(n,"a",function(){return o});u(7),u(45);var o=function(){return function(){}}()},126:function(l,n){function u(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}u.keys=function(){return[]},u.resolve=u,l.exports=u,u.id=126},157:function(l,n,u){function o(l){var n=a[l];return n?u.e(n[1]).then(function(){return u(n[0])}):Promise.reject(new Error("Cannot find module '"+l+"'."))}var a={"../pages/about/about.module.ngfactory":[224,0]};o.keys=function(){return Object.keys(a)},o.id=157,l.exports=o},192:function(l,n,u){"use strict";function o(l){return a._19(0,[(l()(),a.Z(0,0,null,null,17,"ion-header",[["align","center"],["padding",""]],null,null,null,null,null)),a.Y(1,16384,null,0,t.a,[e.a,a.j,a.z,[2,i.a]],null,null),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(3,0,null,null,5,"button",[["color","highlight"],["icon-only",""],["ion-button",""],["large",""],["outline",""],["round",""]],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.goToHomePage()&&o}return o},r.b,r.a)),a.Y(4,1097728,null,0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),a._18(-1,0,["\n    "])),(l()(),a.Z(6,0,null,0,1,"ion-icon",[["name","home"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a.Y(7,147456,null,0,c.a,[e.a,a.j,a.z],{name:[0,"name"]},null),(l()(),a._18(-1,0,["\n  "])),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(10,0,null,null,2,"button",[["color","highlight"],["ion-button",""],["large",""],["outline",""],["round",""]],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.goToAboutPage()&&o}return o},r.b,r.a)),a.Y(11,1097728,null,0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),a._18(-1,0,["About"])),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(14,0,null,null,2,"a",[["button",""],["color","highlight"],["href","https://kathy.life"],["ion-button",""],["large",""],["outline",""],["round",""]],null,null,null,r.b,r.a)),a.Y(15,1097728,null,0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),a._18(-1,0,["Blog"])),(l()(),a._18(-1,null,["\n"])),(l()(),a._18(-1,null,["\n\n"])),(l()(),a.Z(19,0,null,null,132,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,g.b,g.a)),a.Y(20,4374528,null,0,_.a,[e.a,d.a,h.a,a.j,a.z,p.a,m.a,a.u,[2,i.a],[2,f.a]],null,null),(l()(),a._18(-1,1,["\n\n  "])),(l()(),a.Z(22,0,null,1,1,"h2",[["align","center"],["padding",""]],null,null,null,null,null)),(l()(),a._18(-1,null,["About Kathy"])),(l()(),a._18(-1,1,["\n\n  "])),(l()(),a.Z(25,0,null,1,125,"div",[["class","image-grid"]],null,null,null,null,null)),(l()(),a._18(-1,null,["\n    "])),(l()(),a.Z(27,0,null,null,122,"ion-grid",[["class","grid"],["fixed",""],["sm",""]],null,null,null,null,null)),a.Y(28,16384,null,0,b.a,[],null,null),(l()(),a._18(-1,null,["\n      "])),(l()(),a.Z(30,0,null,null,11,"ion-row",[["align-items-center",""],["class","row"],["padding",""]],null,null,null,null,null)),a.Y(31,16384,null,0,Z.a,[],null,null),(l()(),a._18(-1,null,["\n        "])),(l()(),a.Z(33,0,null,null,7,"ion-col",[["align-self-center",""],["class","col"],["col-12",""],["col-sm",""]],null,null,null,null,null)),a.Y(34,16384,null,0,y.a,[],null,null),(l()(),a._18(-1,null,["\n          "])),(l()(),a.Z(36,0,null,null,3,"div",[["align","center"]],null,null,null,null,null)),(l()(),a._18(-1,null,["\n            "])),(l()(),a.Z(38,0,null,null,0,"img",[["height","256px"],["src","assets/imgs/kathfinder.png"],["width","256px"]],null,null,null,null,null)),(l()(),a._18(-1,null,["\n          "])),(l()(),a._18(-1,null,["\n        "])),(l()(),a._18(-1,null,["\n      "])),(l()(),a._18(-1,null,["\n\n      "])),(l()(),a.Z(43,0,null,null,105,"ion-row",[["align-items-center",""],["class","row"],["padding",""]],null,null,null,null,null)),a.Y(44,16384,null,0,Z.a,[],null,null),(l()(),a._18(-1,null,["\n        "])),(l()(),a.Z(46,0,null,null,101,"ion-col",[["align-self-center",""],["class","col"],["col-12",""],["col-sm",""],["padding",""]],null,null,null,null,null)),a.Y(47,16384,null,0,y.a,[],null,null),(l()(),a._18(-1,null,["\n          "])),(l()(),a.Z(49,0,null,null,97,"div",[],null,null,null,null,null)),(l()(),a._18(-1,null,["\n            "])),(l()(),a.Z(51,0,null,null,0,"hr",[],null,null,null,null,null)),(l()(),a._18(-1,null,["\n\n             \n\n            "])),(l()(),a.Z(53,0,null,null,1,"h2",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Life is too short to build boring things."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(56,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Before we get into the details, here are 14 quick-fire questions:"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(59,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["1. Are you bored by what you do on a daily basis?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(62,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["2. Can the boring tasks be handled by robots instead?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(65,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["3. Can *YOU* contribute to the design of new robots?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(68,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["4. What are your ethical guidelines?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(71,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["5. What are you uniquely qualified to do?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(74,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["6. Are you doing what you are uniquely qualified to do?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(77,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["7. If not, why not?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(80,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["8. Are you proud of what you do?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(83,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["9. Will you still be proud of what you do 10 years from now?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(86,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["10. What about 30 years from now?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(89,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["11. What are your dreams?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(92,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["12. Are there any steps you can start taking today to get closer to those dreams?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(95,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["13. If you don't start taking the steps, will you regret it 10 years later?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(98,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["14. What about 30 years later?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(101,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["These are some of the questions that Kathy constantly revisits."])),(l()(),a._18(-1,null,["\n\n             \n\n            "])),(l()(),a.Z(104,0,null,null,0,"hr",[],null,null,null,null,null)),(l()(),a._18(-1,null,["\n\n             \n\n            "])),(l()(),a.Z(106,0,null,null,1,"h1",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Background"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(109,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["As the saying goes, “Things were different back then.”"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(112,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Kathy graduated from the University of Washington’s Paul G. Allen School of Computer Science and Engineering. Her research focus was in Artificial Intelligence / Robotics."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(115,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["At the time of her graduation, A.I. jobs were few and far between. So Kathy started her tech career in a then-disruptive field —— namely, the mobile gaming industry."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(118,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Kathy is gratified to have lived and worked in Silicon Valley, San Francisco, Seattle, London, Hong Kong —— and she intends for the list to keep growing, still."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(121,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Her past employers include both multinational corporations and pre-funded startups alike. To date, she has published 50+ mobile apps worldwide, most of which are best-selling and award-winning games."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(124,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["(At Bandai Namco in particular, Kathy led a team of engineers to turn Namco classics into their mobile counterparts. Original games were among her projects as well. Several other games she worked on have been published by companies like Sony Pictures and The Walt Disney Company.)"])),(l()(),a._18(-1,null,["\n\n             \n\n            "])),(l()(),a.Z(127,0,null,null,0,"hr",[["color","#ffffff"]],null,null,null,null,null)),(l()(),a._18(-1,null,["\n\n             \n\n            "])),(l()(),a.Z(129,0,null,null,1,"h1",[],null,null,null,null,null)),(l()(),a._18(-1,null,["What Now?"])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(132,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Fast forward to many moons later, the tide has turned —— A.I. engineers are all of a sudden in dire demand."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(135,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["But Kathy is no longer interested in getting paid handsomely to build for Corporate America."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(138,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Her goal now, is to explore paths where technology can be leveraged to do good for humanity."])),(l()(),a._18(-1,null,["\n\n            "])),(l()(),a.Z(141,0,null,null,4,"p",[],null,null,null,null,null)),(l()(),a._18(-1,null,["Meanwhile, she won’t stop building "])),(l()(),a.Z(143,0,null,null,1,"a",[["href","http://buildiful.com"]],null,null,null,null,null)),(l()(),a._18(-1,null,["Buildiful"])),(l()(),a._18(-1,null,[" builds alongside great teams."])),(l()(),a._18(-1,null,["\n\n          "])),(l()(),a._18(-1,null,["\n        "])),(l()(),a._18(-1,null,["\n      "])),(l()(),a._18(-1,null,["\n    "])),(l()(),a._18(-1,null,["\n  "])),(l()(),a._18(-1,1,["\n"])),(l()(),a._18(-1,null,["\n\n"])),(l()(),a.Z(153,0,null,null,35,"ion-footer",[["align","center"],["padding",""]],null,null,null,null,null)),a.Y(154,16384,null,0,k.a,[e.a,a.j,a.z,[2,i.a]],null,null),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(156,0,null,null,31,"ion-buttons",[],null,null,null,null,null)),a.Y(157,16384,null,1,Y.a,[e.a,a.j,a.z,[2,w.a],[2,v.a]],null,null),a._16(603979776,1,{_buttons:1}),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(160,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://facebook.com/vrkitten"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,r.b,r.a)),a.Y(161,1097728,[[1,4]],0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),a._18(-1,0,["\n    "])),(l()(),a.Z(163,0,null,0,1,"ion-icon",[["name","logo-facebook"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a.Y(164,147456,null,0,c.a,[e.a,a.j,a.z],{name:[0,"name"]},null),(l()(),a._18(-1,0,["\n  "])),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(167,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://twitter.com/kathfinder"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,r.b,r.a)),a.Y(168,1097728,[[1,4]],0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),a._18(-1,0,["\n    "])),(l()(),a.Z(170,0,null,0,1,"ion-icon",[["name","logo-twitter"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a.Y(171,147456,null,0,c.a,[e.a,a.j,a.z],{name:[0,"name"]},null),(l()(),a._18(-1,0,["\n  "])),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(174,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://instagram.com/kathfinder"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,r.b,r.a)),a.Y(175,1097728,[[1,4]],0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),a._18(-1,0,["\n    "])),(l()(),a.Z(177,0,null,0,1,"ion-icon",[["name","logo-instagram"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a.Y(178,147456,null,0,c.a,[e.a,a.j,a.z],{name:[0,"name"]},null),(l()(),a._18(-1,0,["\n  "])),(l()(),a._18(-1,null,["\n  "])),(l()(),a.Z(181,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://www.youtube.com/channel/UCL1RD5Y3IMmOaS69qQYJvdQ"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,r.b,r.a)),a.Y(182,1097728,[[1,4]],0,s.a,[[8,""],e.a,a.j,a.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),a._18(-1,0,["\n    "])),(l()(),a.Z(184,0,null,0,1,"ion-icon",[["name","logo-youtube"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a.Y(185,147456,null,0,c.a,[e.a,a.j,a.z],{name:[0,"name"]},null),(l()(),a._18(-1,0,["\n  "])),(l()(),a._18(-1,null,["\n"])),(l()(),a._18(-1,null,["\n"])),(l()(),a._18(-1,null,["\n"]))],function(l,n){l(n,4,0,"highlight","","","");l(n,7,0,"home");l(n,11,0,"highlight","","","");l(n,15,0,"highlight","","","");l(n,161,0,"highlight","","");l(n,164,0,"logo-facebook");l(n,168,0,"highlight","","");l(n,171,0,"logo-twitter");l(n,175,0,"highlight","","");l(n,178,0,"logo-instagram");l(n,182,0,"highlight","","");l(n,185,0,"logo-youtube")},function(l,n){l(n,6,0,a._11(n,7)._hidden);l(n,19,0,a._11(n,20).statusbarPadding,a._11(n,20)._hasRefresher);l(n,163,0,a._11(n,164)._hidden);l(n,170,0,a._11(n,171)._hidden);l(n,177,0,a._11(n,178)._hidden);l(n,184,0,a._11(n,185)._hidden)})}u.d(n,"a",function(){return C});var a=u(0),t=u(74),e=u(1),i=u(4),r=u(37),s=u(18),c=u(34),g=u(159),_=u(20),d=u(3),h=u(9),p=u(8),m=u(24),f=u(17),b=u(62),Z=u(63),y=u(61),k=u(75),Y=u(76),w=u(41),v=u(36),j=u(42),T=u(10),z=a.X({encapsulation:2,styles:[],data:{}}),C=a.V("page-about",j.a,function(l){return a._19(0,[(l()(),a.Z(0,0,null,null,1,"page-about",[],null,null,null,o,z)),a.Y(1,49152,null,0,j.a,[f.a,T.a],null,null)],null,null)},{},{},[])},193:function(l,n,u){"use strict";function o(l){return e._19(0,[(l()(),e.Z(0,0,null,null,2,"ion-nav",[],null,null,null,w.b,w.a)),e._14(6144,null,v.a,null,[j.a]),e.Y(2,4374528,null,0,j.a,[[2,T.a],[2,z.a],C.a,P.a,x.a,e.j,e.u,e.z,e.i,A.l,B.a,[2,K.a],q.a,e.k],{root:[0,"root"]},null),(l()(),e._18(-1,null,["\n"]))],function(l,n){l(n,2,0,n.component.rootPage)},null)}function a(l){return e._19(0,[(l()(),e.Z(0,0,null,null,17,"ion-header",[["align","center"],["padding",""]],null,null,null,null,null)),e.Y(1,16384,null,0,R.a,[P.a,e.j,e.z,[2,T.a]],null,null),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(3,0,null,null,5,"button",[["color","highlight"],["icon-only",""],["ion-button",""],["large",""],["outline",""],["round",""]],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.goToHomePage()&&o}return o},W.b,W.a)),e.Y(4,1097728,null,0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),e._18(-1,0,["\n    "])),(l()(),e.Z(6,0,null,0,1,"ion-icon",[["name","home"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(7,147456,null,0,O.a,[P.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._18(-1,0,["\n  "])),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(10,0,null,null,2,"button",[["color","highlight"],["ion-button",""],["large",""],["outline",""],["round",""]],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.goToAboutPage()&&o}return o},W.b,W.a)),e.Y(11,1097728,null,0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),e._18(-1,0,["About"])),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(14,0,null,null,2,"a",[["button",""],["color","highlight"],["href","https://kathy.life"],["ion-button",""],["large",""],["outline",""],["round",""]],null,null,null,W.b,W.a)),e.Y(15,1097728,null,0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],outline:[2,"outline"],round:[3,"round"]},null),(l()(),e._18(-1,0,["Blog"])),(l()(),e._18(-1,null,["\n"])),(l()(),e._18(-1,null,["\n\n"])),(l()(),e.Z(19,0,null,null,131,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,E.b,E.a)),e.Y(20,4374528,null,0,I.a,[P.a,x.a,q.a,e.j,e.z,C.a,M.a,e.u,[2,T.a],[2,z.a]],null,null),(l()(),e._18(-1,1,["\n\n  "])),(l()(),e.Z(22,0,null,1,3,"div",[["class","main"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(24,0,null,null,1,"h1",[["align","center"],["padding",""]],null,null,null,null,null)),(l()(),e._18(-1,null,["Find Kathy"])),(l()(),e._18(-1,1,["\n\n  "])),(l()(),e.Z(27,0,null,1,122,"div",[["class","image-grid"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n    "])),(l()(),e.Z(29,0,null,null,119,"ion-grid",[["align","center"],["class","grid"],["fixed",""],["xs",""]],null,null,null,null,null)),e.Y(30,16384,null,0,L.a,[],null,null),(l()(),e._18(-1,null,["\n      "])),(l()(),e.Z(32,0,null,null,37,"ion-row",[["align-items-center",""],["class","row"],["padding",""]],null,null,null,null,null)),e.Y(33,16384,null,0,V.a,[],null,null),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(35,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(36,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(38,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Panda()&&o}return o},null,null)),(l()(),e.Z(39,0,null,null,0,"img",[["src","assets/imgs/buildbot-panda.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(42,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(43,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(45,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast()&&o}return o},null,null)),(l()(),e.Z(46,0,null,null,0,"img",[["src","assets/imgs/buildbot-kathfinder.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(49,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(50,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(52,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Buildbot()&&o}return o},null,null)),(l()(),e.Z(53,0,null,null,0,"img",[["src","assets/imgs/buildbot-original.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(56,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(57,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(59,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Puppy()&&o}return o},null,null)),(l()(),e.Z(60,0,null,null,0,"img",[["src","assets/imgs/buildbot-puppy.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(63,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(64,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(66,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Duck()&&o}return o},null,null)),(l()(),e.Z(67,0,null,null,0,"img",[["src","assets/imgs/buildbot-duck.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n      "])),(l()(),e._18(-1,null,["\n      "])),(l()(),e.Z(71,0,null,null,37,"ion-row",[["align-items-center",""],["class","row"],["padding",""]],null,null,null,null,null)),e.Y(72,16384,null,0,V.a,[],null,null),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(74,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(75,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(77,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Emoji()&&o}return o},null,null)),(l()(),e.Z(78,0,null,null,0,"img",[["src","assets/imgs/buildbot-emoji.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(81,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(82,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(84,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Kitty()&&o}return o},null,null)),(l()(),e.Z(85,0,null,null,0,"img",[["src","assets/imgs/buildbot-kitty.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(88,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(89,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(91,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Panda()&&o}return o},null,null)),(l()(),e.Z(92,0,null,null,0,"img",[["src","assets/imgs/buildbot-panda.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(95,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(96,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(98,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Emoji()&&o}return o},null,null)),(l()(),e.Z(99,0,null,null,0,"img",[["src","assets/imgs/buildbot-emoji.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(102,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(103,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(105,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Pig()&&o}return o},null,null)),(l()(),e.Z(106,0,null,null,0,"img",[["src","assets/imgs/buildbot-pig.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n      "])),(l()(),e._18(-1,null,["\n      "])),(l()(),e.Z(110,0,null,null,37,"ion-row",[["align-items-center",""],["class","row"],["padding",""]],null,null,null,null,null)),e.Y(111,16384,null,0,V.a,[],null,null),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(113,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(114,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(116,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Puppy()&&o}return o},null,null)),(l()(),e.Z(117,0,null,null,0,"img",[["src","assets/imgs/buildbot-puppy.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(120,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(121,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(123,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Pig()&&o}return o},null,null)),(l()(),e.Z(124,0,null,null,0,"img",[["src","assets/imgs/buildbot-pig.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(127,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(128,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(130,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Duck()&&o}return o},null,null)),(l()(),e.Z(131,0,null,null,0,"img",[["src","assets/imgs/buildbot-duck.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(134,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(135,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(137,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Kitty()&&o}return o},null,null)),(l()(),e.Z(138,0,null,null,0,"img",[["src","assets/imgs/buildbot-kitty.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n        "])),(l()(),e.Z(141,0,null,null,5,"ion-col",[["align-self-center",""],["class","col"],["col-xs",""]],null,null,null,null,null)),e.Y(142,16384,null,0,F.a,[],null,null),(l()(),e._18(-1,null,["\n          "])),(l()(),e.Z(144,0,null,null,1,"a",[],null,[[null,"click"]],function(l,n,u){var o=!0;if("click"===n){o=!1!==l.component.presentToast_Buildbot()&&o}return o},null,null)),(l()(),e.Z(145,0,null,null,0,"img",[["src","assets/imgs/buildbot-original.png"]],null,null,null,null,null)),(l()(),e._18(-1,null,["\n        "])),(l()(),e._18(-1,null,["\n      "])),(l()(),e._18(-1,null,["\n    "])),(l()(),e._18(-1,null,["\n  "])),(l()(),e._18(-1,1,["\n"])),(l()(),e._18(-1,null,["\n\n"])),(l()(),e.Z(152,0,null,null,35,"ion-footer",[["align","center"],["padding",""]],null,null,null,null,null)),e.Y(153,16384,null,0,N.a,[P.a,e.j,e.z,[2,T.a]],null,null),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(155,0,null,null,31,"ion-buttons",[],null,null,null,null,null)),e.Y(156,16384,null,1,Q.a,[P.a,e.j,e.z,[2,U.a],[2,G.a]],null,null),e._16(603979776,1,{_buttons:1}),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(159,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://facebook.com/vrkitten"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,W.b,W.a)),e.Y(160,1097728,[[1,4]],0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),e._18(-1,0,["\n    "])),(l()(),e.Z(162,0,null,0,1,"ion-icon",[["name","logo-facebook"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(163,147456,null,0,O.a,[P.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._18(-1,0,["\n  "])),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(166,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://twitter.com/kathfinder"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,W.b,W.a)),e.Y(167,1097728,[[1,4]],0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),e._18(-1,0,["\n    "])),(l()(),e.Z(169,0,null,0,1,"ion-icon",[["name","logo-twitter"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(170,147456,null,0,O.a,[P.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._18(-1,0,["\n  "])),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(173,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://instagram.com/kathfinder"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,W.b,W.a)),e.Y(174,1097728,[[1,4]],0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),e._18(-1,0,["\n    "])),(l()(),e.Z(176,0,null,0,1,"ion-icon",[["name","logo-instagram"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(177,147456,null,0,O.a,[P.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._18(-1,0,["\n  "])),(l()(),e._18(-1,null,["\n  "])),(l()(),e.Z(180,0,null,null,5,"a",[["button",""],["clear",""],["color","highlight"],["href","https://www.youtube.com/channel/UCL1RD5Y3IMmOaS69qQYJvdQ"],["icon-only",""],["ion-button",""],["large",""]],null,null,null,W.b,W.a)),e.Y(181,1097728,[[1,4]],0,H.a,[[8,""],P.a,e.j,e.z],{color:[0,"color"],large:[1,"large"],clear:[2,"clear"]},null),(l()(),e._18(-1,0,["\n    "])),(l()(),e.Z(183,0,null,0,1,"ion-icon",[["name","logo-youtube"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(184,147456,null,0,O.a,[P.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._18(-1,0,["\n  "])),(l()(),e._18(-1,null,["\n"])),(l()(),e._18(-1,null,["\n"])),(l()(),e._18(-1,null,["\n"]))],function(l,n){l(n,4,0,"highlight","","","");l(n,7,0,"home");l(n,11,0,"highlight","","","");l(n,15,0,"highlight","","","");l(n,160,0,"highlight","","");l(n,163,0,"logo-facebook");l(n,167,0,"highlight","","");l(n,170,0,"logo-twitter");l(n,174,0,"highlight","","");l(n,177,0,"logo-instagram");l(n,181,0,"highlight","","");l(n,184,0,"logo-youtube")},function(l,n){l(n,6,0,e._11(n,7)._hidden);l(n,19,0,e._11(n,20).statusbarPadding,e._11(n,20)._hasRefresher);l(n,162,0,e._11(n,163)._hidden);l(n,169,0,e._11(n,170)._hidden);l(n,176,0,e._11(n,177)._hidden);l(n,183,0,e._11(n,184)._hidden)})}Object.defineProperty(n,"__esModule",{value:!0});var t=u(31),e=u(0),i=(u(7),u(45),u(68)),r=function(){return function(){this.rootPage=i.a}}(),s=u(42),c=u(114),g=function(){return function(){}}(),_=u(46),d=u(183),h=u(184),p=u(185),m=u(186),f=u(187),b=u(188),Z=u(189),y=u(190),k=u(191),Y=u(192),w=u(223),v=u(35),j=u(52),T=u(4),z=u(17),C=u(8),P=u(1),x=u(3),A=u(6),B=u(28),K=u(12),q=u(9),S=e.X({encapsulation:2,styles:[],data:{}}),D=e.V("ng-component",r,function(l){return e._19(0,[(l()(),e.Z(0,0,null,null,1,"ng-component",[],null,null,null,o,S)),e.Y(1,49152,null,0,r,[],null,null)],null,null)},{},{},[]),R=u(74),W=u(37),H=u(18),O=u(34),E=u(159),I=u(20),M=u(24),L=u(62),V=u(63),F=u(61),N=u(75),Q=u(76),U=u(41),G=u(36),J=u(77),X=e.X({encapsulation:2,styles:[],data:{}}),$=e.V("page-home",i.a,function(l){return e._19(0,[(l()(),e.Z(0,0,null,null,1,"page-home",[],null,null,null,a,X)),e.Y(1,49152,null,0,i.a,[z.a,J.a],null,null)],null,null)},{},{},[]),ll=u(15),nl=u(95),ul=u(16),ol=u(84),al=u(86),tl=u(94),el=u(14),il=u(30),rl=u(92),sl=u(115),cl=u(48),gl=u(38),_l=u(99),dl=u(58),hl=u(103),pl=u(97),ml=u(182),fl=u(96),bl=u(26),Zl=u(93),yl=u(98),kl=e.W(g,[_.b],function(l){return e._7([e._8(512,e.i,e.S,[[8,[d.a,h.a,p.a,m.a,f.a,b.a,Z.a,y.a,k.a,Y.a,D,$]],[3,e.i],e.s]),e._8(5120,e.r,e._15,[[3,e.r]]),e._8(4608,ll.k,ll.j,[e.r,[2,ll.s]]),e._8(5120,e.b,e._1,[]),e._8(5120,e.p,e._9,[]),e._8(5120,e.q,e._12,[]),e._8(4608,t.c,t.q,[ll.c]),e._8(6144,e.D,null,[t.c]),e._8(4608,t.f,nl.a,[]),e._8(5120,t.d,function(l,n,u,o,a){return[new t.k(l,n),new t.o(u),new t.n(o,a)]},[ll.c,e.u,ll.c,ll.c,t.f]),e._8(4608,t.e,t.e,[t.d,e.u]),e._8(135680,t.m,t.m,[ll.c]),e._8(4608,t.l,t.l,[t.e,t.m]),e._8(6144,e.B,null,[t.l]),e._8(6144,t.p,null,[t.m]),e._8(4608,e.G,e.G,[e.u]),e._8(4608,t.h,t.h,[ll.c]),e._8(4608,t.i,t.i,[ll.c]),e._8(4608,ul.k,ul.k,[]),e._8(4608,ul.c,ul.c,[]),e._8(4608,ol.a,ol.a,[C.a,P.a]),e._8(4608,al.a,al.a,[C.a,P.a]),e._8(4608,tl.a,tl.a,[]),e._8(4608,el.a,el.a,[]),e._8(4608,il.a,il.a,[x.a]),e._8(4608,M.a,M.a,[P.a,x.a,e.u,q.a]),e._8(4608,rl.a,rl.a,[C.a,P.a]),e._8(5120,ll.f,sl.c,[ll.q,[2,ll.a],P.a]),e._8(4608,ll.e,ll.e,[ll.f]),e._8(5120,cl.b,cl.d,[C.a,cl.a]),e._8(5120,K.a,K.b,[C.a,cl.b,ll.e,gl.b,e.i]),e._8(4608,_l.a,_l.a,[C.a,P.a,K.a]),e._8(4608,dl.a,dl.a,[C.a,P.a]),e._8(4608,hl.a,hl.a,[C.a,P.a,K.a]),e._8(4608,pl.a,pl.a,[P.a,x.a,q.a,C.a,A.l]),e._8(4608,J.a,J.a,[C.a,P.a]),e._8(4608,B.a,B.a,[x.a,P.a]),e._8(512,ll.b,ll.b,[]),e._8(512,e.k,ml.a,[]),e._8(256,P.b,{},[]),e._8(1024,fl.a,fl.b,[]),e._8(1024,x.a,x.b,[t.b,fl.a,e.u]),e._8(1024,P.a,P.c,[P.b,x.a]),e._8(512,q.a,q.a,[x.a]),e._8(512,bl.a,bl.a,[]),e._8(512,C.a,C.a,[P.a,x.a,[2,bl.a]]),e._8(512,A.l,A.l,[C.a]),e._8(256,cl.a,{links:[{loadChildren:"../pages/about/about.module.ngfactory#AboutPageModuleNgFactory",name:"AboutPage",segment:"about",priority:"low",defaultHistory:[]}]},[]),e._8(512,e.h,e.h,[]),e._8(512,Zl.a,Zl.a,[e.h]),e._8(1024,gl.b,gl.c,[Zl.a,e.o]),e._8(1024,e.c,function(l,n,u,o,a,e,i,r,s,c,g,_,d){return[t.s(l),yl.a(n),tl.b(u,o),pl.b(a,e,i,r,s),gl.d(c,g,_,d)]},[[2,e.t],P.a,x.a,q.a,P.a,x.a,q.a,C.a,A.l,P.a,cl.a,gl.b,e.u]),e._8(512,e.d,e.d,[[2,e.c]]),e._8(131584,e.f,e.f,[e.u,e.T,e.o,e.k,e.i,e.d]),e._8(512,e.e,e.e,[e.f]),e._8(512,t.a,t.a,[[3,t.a]]),e._8(512,ul.j,ul.j,[]),e._8(512,ul.d,ul.d,[]),e._8(512,ul.i,ul.i,[]),e._8(512,sl.a,sl.a,[]),e._8(512,sl.b,sl.b,[]),e._8(512,c.a,c.a,[]),e._8(512,g,g,[]),e._8(256,gl.a,s.a,[]),e._8(256,_.a,r,[]),e._8(256,ll.a,"/",[])])});Object(e.M)(),Object(t.j)().bootstrapModuleFactory(kl)},42:function(l,n,u){"use strict";u.d(n,"a",function(){return a});u(7),u(45);var o=u(68),a=function(){function l(l,n){this.navCtrl=l,this.navParams=n}return n=l,l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad AboutPage")},l.prototype.goToAboutPage=function(){this.navCtrl.setRoot(n)},l.prototype.goToHomePage=function(){this.navCtrl.setRoot(o.a)},l;var n}()},68:function(l,n,u){"use strict";u.d(n,"a",function(){return a});u(7),u(45);var o=u(42),a=function(){function l(l,n){this.navCtrl=l,this.toastCtrl=n}return n=l,l.prototype.goToAboutPage=function(){this.navCtrl.setRoot(o.a)},l.prototype.goToHomePage=function(){this.navCtrl.setRoot(n)},l.prototype.presentToast=function(){this.toastCtrl.create({message:"You have found Kathy!",position:"middle",duration:2e3,cssClass:"toast-box-big"}).present()},l.prototype.presentToast_Buildbot=function(){this.toastCtrl.create({message:"Robot Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Panda=function(){this.toastCtrl.create({message:"Panda Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Puppy=function(){this.toastCtrl.create({message:"Puppy Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Kitty=function(){this.toastCtrl.create({message:"Kitty Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Pig=function(){this.toastCtrl.create({message:"Piggie Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Duck=function(){this.toastCtrl.create({message:"Duckie Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l.prototype.presentToast_Emoji=function(){this.toastCtrl.create({message:"Emoji Buildie",position:"middle",duration:1500,cssClass:"toast-box"}).present()},l;var n}()}},[193]);
+webpackJsonp([0],{
+
+/***/ 108:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 108;
+
+/***/ }),
+
+/***/ 149:
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"../pages/about/about.module": [
+		150
+	]
+};
+function webpackAsyncContext(req) {
+	var ids = map[req];
+	if(!ids)
+		return Promise.reject(new Error("Cannot find module '" + req + "'."));
+	return Promise.all(ids.slice(1).map(__webpack_require__.e)).then(function() {
+		return __webpack_require__(ids[0]);
+	});
+};
+webpackAsyncContext.keys = function webpackAsyncContextKeys() {
+	return Object.keys(map);
+};
+webpackAsyncContext.id = 149;
+module.exports = webpackAsyncContext;
+
+/***/ }),
+
+/***/ 150:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AboutPageModule", function() { return AboutPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__about__ = __webpack_require__(75);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var AboutPageModule = /** @class */ (function () {
+    function AboutPageModule() {
+    }
+    AboutPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__about__["a" /* AboutPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__about__["a" /* AboutPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__about__["a" /* AboutPage */],
+            ]
+        })
+    ], AboutPageModule);
+    return AboutPageModule;
+}());
+
+//# sourceMappingURL=about.module.js.map
+
+/***/ }),
+
+/***/ 190:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(214);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 214:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(257);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(76);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_about_about__ = __webpack_require__(75);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_about_about_module__ = __webpack_require__(150);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+//import { SplashScreen } from '@ionic-native/splash-screen';
+//import { StatusBar } from '@ionic-native/status-bar';
+
+
+
+
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */], {}, {
+                    links: [
+                        { loadChildren: '../pages/about/about.module#AboutPageModule', name: 'AboutPage', segment: 'about', priority: 'low', defaultHistory: [] }
+                    ]
+                }),
+                __WEBPACK_IMPORTED_MODULE_6__pages_about_about_module__["AboutPageModule"],
+            ],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* IonicApp */]],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */],
+                __WEBPACK_IMPORTED_MODULE_5__pages_about_about__["a" /* AboutPage */],
+            ],
+            providers: [
+                //StatusBar,
+                //SplashScreen,
+                { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["u" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* IonicErrorHandler */] }
+            ]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 257:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__pages_home_home__ = __webpack_require__(76);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+//import { Platform } from 'ionic-angular';
+//import { StatusBar } from '@ionic-native/status-bar';
+//import { SplashScreen } from '@ionic-native/splash-screen';
+
+var MyApp = /** @class */ (function () {
+    function MyApp() {
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_1__pages_home_home__["a" /* HomePage */];
+    }
+    MyApp = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({template:/*ion-inline-start:"/Users/kathy/Development/Ionic/kathfinder/src/app/app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"/Users/kathy/Development/Ionic/kathfinder/src/app/app.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], MyApp);
+    return MyApp;
+}());
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ }),
+
+/***/ 75:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AboutPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__home_home__ = __webpack_require__(76);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Generated class for the AboutPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var AboutPage = /** @class */ (function () {
+    function AboutPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+    }
+    AboutPage_1 = AboutPage;
+    AboutPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad AboutPage');
+    };
+    AboutPage.prototype.goToAboutPage = function () {
+        this.navCtrl.setRoot(AboutPage_1);
+    };
+    AboutPage.prototype.goToHomePage = function () {
+        this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_2__home_home__["a" /* HomePage */]);
+    };
+    AboutPage = AboutPage_1 = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-about',template:/*ion-inline-start:"/Users/kathy/Development/Ionic/kathfinder/src/pages/about/about.html"*/'<ion-header align="center" padding>\n  <button ion-button icon-only large outline round color="highlight" (click)="goToHomePage()">\n    <ion-icon name="home"></ion-icon>\n  </button>\n  <button ion-button large outline round color="highlight" (click)="goToAboutPage()">About</button>\n  <a button ion-button large outline round color="highlight" href="https://kathy.life">Blog</a>\n  <a button ion-button large outline round color="highlight" href="https://buildbuilds.com">Slog</a>\n  <a button ion-button large outline round color="highlight" href="https://www.youtube.com/channel/UCL1RD5Y3IMmOaS69qQYJvdQ">Vlog</a>\n</ion-header>\n\n<ion-content padding>\n\n  <h2 align="center" padding>About Kathy</h2>\n\n  <div class="image-grid">\n    <ion-grid fixed sm>\n      <ion-row align-items-center padding>\n        <ion-col col-12 col-sm align-self-center>\n          <div align="center">\n            <img width="256px" height="256px" src="assets/imgs/kathfinder.png" />\n          </div>\n        </ion-col>\n      </ion-row>\n\n      <ion-row align-items-center padding>\n        <ion-col col-12 col-sm align-self-center padding>\n          <div>\n            <hr>\n\n            &nbsp;\n\n            <h2>Life is too short to build boring things.</h2>\n\n            <p>Before we get into the details, here are 14 quick-fire questions:</p>\n\n            <p>1. Are you bored by what you do on a daily basis?</p>\n\n            <p>2. Can the boring tasks be handled by robots instead?</p>\n\n            <p>3. Can *YOU* contribute to the design of new robots?</p>\n\n            <p>4. What are your ethical guidelines?</p>\n\n            <p>5. What are you uniquely qualified to do?</p>\n\n            <p>6. Are you doing what you are uniquely qualified to do?</p>\n\n            <p>7. If not, why not?</p>\n\n            <p>8. Are you proud of what you do?</p>\n\n            <p>9. Will you still be proud of what you do 10 years from now?</p>\n\n            <p>10. What about 30 years from now?</p>\n\n            <p>11. What are your dreams?</p>\n\n            <p>12. Are there any steps you can start taking today to get closer to those dreams?</p>\n\n            <p>13. If you don\'t start taking the steps, will you regret it 10 years later?</p>\n\n            <p>14. What about 30 years later?</p>\n\n            <p>These are some of the questions that Kathy constantly revisits.</p>\n\n            &nbsp;\n\n            <hr>\n\n            &nbsp;\n\n            <h1>Background</h1>\n\n            <p>As the saying goes, “Things were different back then.”</p>\n\n            <p>Kathy graduated from the University of Washington’s Paul G. Allen School of Computer Science and Engineering. Her research focus was in Artificial Intelligence / Robotics.</p>\n\n            <p>At the time of her graduation, A.I. jobs were few and far between. So Kathy started her tech career in a then-disruptive field —— namely, the mobile gaming industry.</p>\n\n            <p>Kathy is gratified to have lived and worked in Silicon Valley, San Francisco, Seattle, London, Hong Kong —— and she intends for the list to keep growing, still.</p>\n\n            <p>Her past employers include both multinational corporations and pre-funded startups alike. To date, she has published 50+ mobile apps worldwide, most of which are best-selling and award-winning games.</p>\n\n            <p>(At Bandai Namco in particular, Kathy led a team of engineers to turn Namco classics into their mobile counterparts. Original games were among her projects as well. Several other games she worked on have been published by companies like Sony Pictures and The Walt Disney Company.)</p>\n\n            &nbsp;\n\n            <hr color="#ffffff">\n\n            &nbsp;\n\n            <h1>What Now?</h1>\n\n            <p>Fast forward to many moons later, the tide has turned —— A.I. engineers are all of a sudden in dire demand.</p>\n\n            <p>But Kathy is no longer interested in getting paid handsomely to build for Corporate America.</p>\n\n            <p>Her goal now, is to explore paths where technology can be leveraged to do good for humanity.</p>\n\n            <p>Meanwhile, she won’t stop building <a href="http://buildiful.com">Buildiful</a> builds alongside great teams.</p>\n\n          </div>\n        </ion-col>\n      </ion-row>\n    </ion-grid>\n  </div>\n</ion-content>\n\n<ion-footer align="center" padding>\n    <ion-buttons>\n        <a button ion-button icon-only large clear color="highlight" href="https://medium.com/@kathyli">\n          <ion-icon name="book"></ion-icon>\n        </a>\n        <a button ion-button icon-only large clear color="highlight" href="https://facebook.com/vrkitten">\n          <ion-icon name="logo-facebook"></ion-icon>\n        </a>\n        <a button ion-button icon-only large clear color="highlight" href="https://twitter.com/kathfinder">\n          <ion-icon name="logo-twitter"></ion-icon>\n        </a>\n        <a button ion-button icon-only large clear color="highlight" href="https://instagram.com/kathfinder">\n          <ion-icon name="logo-instagram"></ion-icon>\n        </a>\n      </ion-buttons>\n</ion-footer>\n'/*ion-inline-end:"/Users/kathy/Development/Ionic/kathfinder/src/pages/about/about.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */]])
+    ], AboutPage);
+    return AboutPage;
+    var AboutPage_1;
+}());
+
+//# sourceMappingURL=about.js.map
+
+/***/ }),
+
+/***/ 76:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__about_about__ = __webpack_require__(75);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var HomePage = /** @class */ (function () {
+    function HomePage(navCtrl, toastCtrl) {
+        this.navCtrl = navCtrl;
+        this.toastCtrl = toastCtrl;
+    }
+    HomePage_1 = HomePage;
+    HomePage.prototype.goToAboutPage = function () {
+        this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_2__about_about__["a" /* AboutPage */]);
+    };
+    HomePage.prototype.goToHomePage = function () {
+        this.navCtrl.setRoot(HomePage_1);
+    };
+    HomePage.prototype.presentToast = function () {
+        var toast = this.toastCtrl.create({
+            message: 'You have found Kathy!',
+            position: 'middle',
+            duration: 2000,
+            cssClass: 'toast-box-big',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Buildbot = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Robot Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Panda = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Panda Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Puppy = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Puppy Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Kitty = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Kitty Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Pig = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Piggie Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Duck = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Duckie Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage.prototype.presentToast_Emoji = function () {
+        var toast = this.toastCtrl.create({
+            message: 'Emoji Buildie',
+            position: 'middle',
+            duration: 1500,
+            cssClass: 'toast-box',
+        });
+        toast.present();
+    };
+    HomePage = HomePage_1 = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-home',template:/*ion-inline-start:"/Users/kathy/Development/Ionic/kathfinder/src/pages/home/home.html"*/'<ion-header align="center" padding>\n  <button ion-button icon-only large outline round color="highlight" (click)="goToHomePage()">\n    <ion-icon name="home"></ion-icon>\n  </button>\n  <button ion-button large outline round color="highlight" (click)="goToAboutPage()">About</button>\n  <a button ion-button large outline round color="highlight" href="https://kathy.life">Blog</a>\n  <a button ion-button large outline round color="highlight" href="https://buildbuilds.com">Slog</a>\n  <a button ion-button large outline round color="highlight" href="https://www.youtube.com/channel/UCL1RD5Y3IMmOaS69qQYJvdQ">Vlog</a>\n</ion-header>\n\n<ion-content padding>\n\n  <div class="main">\n  <h1 align="center" padding>Find Kathy</h1></div>\n\n  <div class="image-grid">\n    <ion-grid align="center" fixed xs>\n      <ion-row align-items-center padding>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Panda()"><img src="assets/imgs/buildbot-panda.png" /></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast()"><img src="assets/imgs/buildbot-kathfinder.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Buildbot()"><img src="assets/imgs/buildbot-original.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Puppy()"><img src="assets/imgs/buildbot-puppy.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Duck()"><img src="assets/imgs/buildbot-duck.png"/></a>\n        </ion-col>\n      </ion-row>\n      <ion-row align-items-center padding>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Emoji()"><img src="assets/imgs/buildbot-emoji.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Kitty()"><img src="assets/imgs/buildbot-kitty.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Panda()"><img src="assets/imgs/buildbot-panda.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Emoji()"><img src="assets/imgs/buildbot-emoji.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Pig()"><img src="assets/imgs/buildbot-pig.png"/></a>\n        </ion-col>\n      </ion-row>\n      <ion-row align-items-center padding>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Puppy()"><img src="assets/imgs/buildbot-puppy.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Pig()"><img src="assets/imgs/buildbot-pig.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Duck()"><img src="assets/imgs/buildbot-duck.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Kitty()"><img src="assets/imgs/buildbot-kitty.png"/></a>\n        </ion-col>\n        <ion-col align-self-center col-xs>\n          <a (click)="presentToast_Buildbot()"><img src="assets/imgs/buildbot-original.png"/></a>\n        </ion-col>\n      </ion-row>\n    </ion-grid>\n  </div>\n</ion-content>\n\n<ion-footer align="center" padding>\n  <ion-buttons>\n      <a button ion-button icon-only large clear color="highlight" href="https://medium.com/@kathyli">\n        <ion-icon name="book"></ion-icon>\n      </a>\n      <a button ion-button icon-only large clear color="highlight" href="https://facebook.com/vrkitten">\n        <ion-icon name="logo-facebook"></ion-icon>\n      </a>\n      <a button ion-button icon-only large clear color="highlight" href="https://twitter.com/kathfinder">\n        <ion-icon name="logo-twitter"></ion-icon>\n      </a>\n      <a button ion-button icon-only large clear color="highlight" href="https://instagram.com/kathfinder">\n        <ion-icon name="logo-instagram"></ion-icon>\n      </a>\n    </ion-buttons>\n</ion-footer>\n'/*ion-inline-end:"/Users/kathy/Development/Ionic/kathfinder/src/pages/home/home.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ToastController */]])
+    ], HomePage);
+    return HomePage;
+    var HomePage_1;
+}());
+
+//# sourceMappingURL=home.js.map
+
+/***/ })
+
+},[190]);
+//# sourceMappingURL=main.js.map
