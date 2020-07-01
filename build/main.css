@@ -30526,6 +30526,24 @@ ion-navbar.toolbar {
   min-height: calc(46px + env(safe-area-inset-bottom));
 }
 
+ion-icon[class*="custom-"] {
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-position: 50% 50%;
+  mask-position: 50% 50%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  background: currentColor;
+  width: 2em;
+  height: 1em;
+  margin: inherit;
+}
+
+ion-icon[class*="custom-logo-medium"] {
+  -webkit-mask-image: url(/assets/icon/ion-icons/logo-medium.svg);
+  mask-image: url(/assets/icon/ion-icons/logo-medium.svg);
+}
+
 page-about h1 {
   font-size: 4.0rem;
 }
