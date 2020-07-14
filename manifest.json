@@ -2,7 +2,7 @@
   "name": "Kathy Li",
   "short_name": "Kathy Li",
   "start_url": "index.html",
-  "display": "browser",
+  "display": "minimal-ui",
   "icons": [{
     "src": "assets/imgs/logo.png",
     "sizes": "512x512",
